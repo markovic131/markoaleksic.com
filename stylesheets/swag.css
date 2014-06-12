@@ -539,6 +539,7 @@ p {
 }
 #mainContent h1 {
   font-size: 100px;
+  line-height: 80px;
   font-family: "pnb";
   margin-top: 15px;
   margin-bottom: 15px;

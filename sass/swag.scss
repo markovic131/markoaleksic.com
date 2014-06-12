@@ -19,6 +19,7 @@
     }
     h1 {
         font-size: 100px;
+        line-height: 80px;
         @media (max-width: $screen-sm-max) {
             font-size: 60px;
         }

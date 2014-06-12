@@ -9,29 +9,28 @@
         <link rel="stylesheet" href="stylesheets/swag.css">
     </head>
     <body>
-        <!--[if lt IE 8]>
-            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-
         <div class="container">
             <section id="mainContent">
-                <div id="logo">
+                <!-- <div id="logo">
                     <img src="http://lorempixel.com/200/200/" alt="Marko Z. Aleksić Logo">
-                </div>
+                </div> -->
                 <h1>Marko Z. Aleksić</h1>
                 <p class="lead">
-                    Web Developer <a href="#">@Seavus</a> &middot; Co-Founder of <a href="#">Onivo</a>.
+                    Web Developer at <a href="http://seavus.com">Seavus</a> &middot; Co-Founder of <a href="http://onivo.mk">Onivo</a>.
                 </p>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis, vitae, at illum id assumenda officia sed dolore voluptatibus? Suscipit, nemo dolorem error ratione consectetur minus saepe dolore asperiores facere a.
+                    I firmly <strong>belive</strong>; enterprise software meticulous crafted to perfection, can simplify &amp; improve business processes and create competitive advantage.
+                    <!-- I kick ass and chew bubble gum. -->
                 </p>
                 <hr>
                 <p>
-                    <a href="#">Twitter</a> &middot; <a href="#">LinkedIn</a> &middot; <a href="#">GitHub</a> &middot; <a href="#">Stack Overflow</a>
+                    <a href="#">LinkedIn</a> &middot; <a href="#">Twitter</a> &middot;  <a href="#">GitHub</a> &middot; <a href="#">Stack Overflow</a>
                 </p>
             </section>
             <footer>
-                &copy; 2014 Marko Z. Aleksić
+                <p>
+                    &copy; 2014 Marko Z. Aleksić. All Rights Reserved.
+                </p>
             </footer>
         </div>
 
