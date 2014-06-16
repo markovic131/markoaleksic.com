@@ -64,7 +64,7 @@
                 </p>
                 <hr>
                 <p id="eml">
-                    Via <?php echo mungemail('iam@markoaleksic.com') ?> or
+                    Via <?=mungemail('iam@markoaleksic.com')?> or
                 </p>
                 <p>
                     <a href="http://www.linkedin.com/in/aleksicmarko" target="_blank">LinkedIn</a> &middot;
@@ -75,7 +75,7 @@
             </section>
             <footer>
                 <p>
-                    &copy; 2014 Marko Z. Aleksić. All Rights Reserved.
+                    &copy; <?=date('Y')?> Marko Z. Aleksić. All Rights Reserved.
                 </p>
             </footer>
         </div>

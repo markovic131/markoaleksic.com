@@ -14,12 +14,12 @@
         font-family: $fontFamilyBold;
         margin-top: 0;
         margin-bottom: 15px;
+        @include text-shadow(1px 2px 5px #444);
         @media (max-width: $screen-sm-max) {
             font-size: 60px;
             line-height: 50px;
             margin-bottom: 5px;
         }
-        //@include text-shadow(1px 5px 5px #222);
     }
     #eml {
         font-size: 24px;
