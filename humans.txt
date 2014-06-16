@@ -3,13 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
+    Marko Aleksic -- Developer -- @MarkoAleksic131
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    Normalize.css, jQuery, Modernizr
+    PHP, HTML5, CSS3
+    Normalize.css, Compass, ProximaNova Font
