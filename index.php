@@ -59,7 +59,7 @@
                     Web Developer at <a href="http://seavus.com" target="_blank">Seavus</a> &middot; Co-Founder of <a href="http://onivo.mk" target="_blank">Onivo</a>.
                 </p>
                 <p>
-                    I firmly <strong>belive</strong>; enterprise software meticulous crafted to perfection, can simplify &amp; improve business processes and create competitive advantage.
+                    I firmly <strong>believe</strong>; enterprise software meticulous crafted to perfection, can simplify &amp; improve business processes and create competitive advantage.
                     <!-- I kick ass and chew bubble gum. -->
                 </p>
                 <hr>
