@@ -46,7 +46,7 @@
         <meta name="description" content="Marko Z. Aleksić">
         <meta name="keywords" content="marko, aleksic, aleksić, personal, consulting, business, software, onivo, onivo.mk, invoicing, web-development">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="stylesheets/swag.css">
+        <link rel="stylesheet" href="/stylesheets/swag.css">
     </head>
     <body>
         <div class="container">
