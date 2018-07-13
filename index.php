@@ -21,24 +21,25 @@
     <body>
         <div class="container">
             <section id="mainContent">
+                <div style="padding-top: 33px"></div>
                 <h1>Marko Z. Aleksić</h1>
-                <p class="lead">
-                    Co-Founder at <a href="http://onivo.mk" target="_blank">Onivo</a>. Founder at <a href="http://carniadesign.com" target="_blank">Carnia Design</a><br>&amp;
-                    Business Development Manager at <a href="http://fortis.mk" target="_blank">Fortis</a>
-                </p>
-                <p>
-                    I firmly <strong>believe</strong>; enterprise software meticulous crafted to perfection,<br>can simplify &amp; improve business processes <br>and create competitive advantage.
-                    <!-- I kick ass and chew bubble gum. -->
-                </p>
+                <?php
+                //<p class="lead">
+                //    Co-Founder at <a href="http://onivo.mk" target="_blank">Onivo</a>. Founder at <a href="http://carniadesign.com" target="_blank">Carnia Design</a><br>&amp;
+              //      Business Development Manager at <a href="http://fortis.mk" target="_blank">Fortis</a>
+              //  </p>
+              //  <p>
+               //     I firmly <strong>believe</strong>; enterprise software meticulous crafted to perfection,<br>can simplify &amp; improve business processes <br>and create competitive advantage.
+              //  </p>
+             //   <p id="eml">
+             //       Contact via <?=mungemail('iam@markoaleksic.com') or
+             //       <a href="http://www.linkedin.com/in/aleksicmarko" target="_blank">LinkedIn</a>
+              //      <!-- <a href="https://twitter.com/MarkoAleksic131" target="_blank">Twitter</a> &middot;
+              //      <a href="https://github.com/psybaron" target="_blank">GitHub</a> -->
+             //   </p>
+                ?>
                 <hr>
-                <p id="eml">
-                    Via <?=mungemail('iam@markoaleksic.com')?> or
-                </p>
-                <p>
-                    <a href="http://www.linkedin.com/in/aleksicmarko" target="_blank">LinkedIn</a> &middot;
-                    <a href="https://twitter.com/MarkoAleksic131" target="_blank">Twitter</a> &middot;
-                    <a href="https://github.com/psybaron" target="_blank">GitHub</a>
-                </p>
+
             </section>
             <footer>
                 <p>
